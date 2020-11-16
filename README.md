@@ -7,4 +7,4 @@ This project is based on basic trading strategy of "Buying on Dips" i.e., buying
 Here I have used functions and OOP concept to minimise time and give better output. After successfuly completing the main coding part with all logics, I am pplanning to add a databse so that the users don't need to worry about maintaining any records. Once completed, It will be very much helpful for beginner level investors.
 
 File Details:
-  trial_q.cpp is for basic understanding that how the code will work. It is a prototype of actual work.
+  trial_1.cpp is for basic understanding that how the code will work. It is a prototype of actual work.
