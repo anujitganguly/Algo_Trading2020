@@ -13,3 +13,6 @@ Here I have used functions and OOP concept to minimise time and give better outp
 
 File Details:
   trial_1.cpp is for basic understanding that how the code will work. It is a prototype of actual work.
+  
+  
+  Disclaimer: This project is mainly for helping out busy traders but rihht now it is too naive be considered as a serious tool for trading.
