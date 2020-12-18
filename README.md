@@ -15,8 +15,9 @@ File Details:
   trial_1.cpp is for basic understanding that how the code will work. It is a prototype of actual work.
   
   
- ### Future Scope:
- #### 1. Future of algo trading is very promising.
- #### 2. It doesn't involve Human emotions, hence it excludes the chances of making wrong decissions upto a certain extent.
+### Future Scope:
+#### 1. Future of algo trading is very promising.
+#### 2. It doesn't involve Human emotions, hence it excludes the chances of making wrong decissions upto a certain extent.
   
-  Disclaimer: This project is mainly for helping out busy traders but rihht now it is too naive be considered as a serious tool for trading. People may take its help to understand how some traders execute their orders.
+### Model_2: Calculation of brokerage and taxes for all trades.
+Disclaimer: This project is mainly for helping out busy traders but rihht now it is too naive be considered as a serious tool for trading. People may take its help to understand how some traders execute their orders.
