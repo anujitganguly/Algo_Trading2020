@@ -19,5 +19,5 @@ File Details:
 #### 1. Future of algo trading is very promising.
 #### 2. It doesn't involve Human emotions, hence it excludes the chances of making wrong decissions upto a certain extent.
   
-### Model_2: Calculation of brokerage and taxes for all trades.
+### Model_2: Calculation of brokerage and taxes for all trades. (Future concept)
 Disclaimer: This project is mainly for helping out busy traders but rihht now it is too naive be considered as a serious tool for trading. People may take its help to understand how some traders execute their orders.
