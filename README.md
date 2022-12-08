@@ -21,3 +21,6 @@ File Details:
   
 ### Model_2: Calculation of brokerage and taxes for all trades. (Future concept)
 Disclaimer: This project is mainly for helping out busy traders but rihht now it is too naive be considered as a serious tool for trading. People may take its help to understand how some traders execute their orders.
+
+
+stockPrice.py is a python code to fetch the price of a stock from yahoo finance
